@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Akira/Environment.cs">
+    <Files>
+      <File FileName="Akira/Dictionary.cs" Line="1" Column="1" />
+      <File FileName="Akira/Exception.cs" Line="1" Column="1" />
+      <File FileName="Akira/String.cs" Line="1" Column="1" />
+      <File FileName="Akira/Catalog.cs" Line="38" Column="4" />
+      <File FileName="Akira/Environment.cs" Line="15" Column="125" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Akira" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Environment.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
